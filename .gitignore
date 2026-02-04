@@ -1,0 +1,22 @@
+# Python
+__pycache__/
+*.pyc
+
+# Virtual environments
+venv/
+causal_env/
+
+# Data files
+*.csv
+
+# ML artifacts
+catboost_info/
+autogluon_models/
+
+# Not needed files
+*.png
+*.json
+
+# IDE
+.vscode/
+.idea/
